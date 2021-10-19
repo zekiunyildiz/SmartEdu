@@ -120,7 +120,7 @@ dist
 tmp/
 temp/
 public/
-../temp/
+views/
 
 # yarn v2
 .yarn/cache
